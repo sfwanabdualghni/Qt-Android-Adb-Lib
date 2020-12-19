@@ -1,0 +1,1 @@
+# Qt-Android-Adb-Lib
